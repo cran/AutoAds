@@ -1,0 +1,4 @@
+export(view_percent, eCPM, CPMv, CTR, CPC, fill_rate, adstats, plot_trend_and_forecast)
+importFrom("stats", "ts")
+importFrom("forecast", "auto.arima", "forecast")
+importFrom("ggplot2", "aes", "geom_line", "geom_ribbon", "ggplot", "labs", "theme_minimal")

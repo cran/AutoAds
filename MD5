@@ -1,0 +1,12 @@
+0e00d8cd8d12afaaf21c883e0154dc03 *DESCRIPTION
+ac774dd26abef0941238793ab6496e13 *LICENSE
+a1bca777757e4f008735c8554413f0c4 *NAMESPACE
+e011c7d15b7c56b94729cf38bd0b02d9 *R/AutoAds.R
+e54ffb886a3728626517f9278a7d0cba *man/CPC.Rd
+b48f31424ff6f93b918f6e6408ebe5e7 *man/CPMv.Rd
+5aea2b30a8bcdf5d1fba18d14fb69724 *man/CTR.Rd
+c20de69571b6d9275919bfd702170c4a *man/adstats.Rd
+e1f52576e0596a7d458e30efb39b6f0e *man/eCPM.Rd
+7d2a9e34352050e2dbbbad841c617d83 *man/fill_rate.Rd
+b532e4ac98dfb3d1b9a3367f4966e509 *man/plot_trend_and_forecast.Rd
+6ca7d2cee43b13b01225dbafa7fc01e8 *man/view_percent.Rd
